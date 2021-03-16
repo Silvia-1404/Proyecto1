@@ -19,6 +19,8 @@ Funcion division
 }
 \examples{
 div(1,1)
+div(2,0)
+div(-3,2.1)
 
 }
 \seealso{
